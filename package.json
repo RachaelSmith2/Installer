@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "del": "^6.0.0",
-    "electron": "^9.4.0",
+    "electron": "^11.5.0",
     "electron-builder": "^22.4.1",
     "electron-webpack": "^2.8.2",
     "eslint": "^7.21.0",
